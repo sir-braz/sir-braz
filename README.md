@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @vinicius-batista-dev
+- 👋 Hi, I’m Braz
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning nodejs
-- 📫 How to reach me viniciusbatistabraz@gmail.com
-
