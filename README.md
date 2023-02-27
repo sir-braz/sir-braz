@@ -7,7 +7,7 @@ I'm a Full Stack developer with experience in ReactJS and NodeJS, passionate abo
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sir-braz).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/sir-braz/sir-braz/issues/2)! I am happy to help.
