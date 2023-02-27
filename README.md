@@ -1,8 +1,5 @@
 ## Hey 👋, I'm [Vinicius Batista!](https://github.com/sir-braz/)
 
-
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
-
 I'm a Full Stack developer with experience in ReactJS and NodeJS, passionate about creating scalable, high-performance solutions that deliver amazing user experiences. With a solid background in programming and design, I'm always looking for new challenges to improve my skills and improve my development techniques. I am passionate about teamwork, collaborating with other developers and stakeholders to deliver high quality products on time and within budget. My goal is always to seek the best practices and innovative solutions for each project I take on.
 
 
@@ -42,11 +39,3 @@ I'm a Full Stack developer with experience in ReactJS and NodeJS, passionate abo
 	    <br />
 	</ul>	
 </details>
-
-#
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
