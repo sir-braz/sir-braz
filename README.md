@@ -26,13 +26,3 @@ I'm a Software Engineer, passionate about creating scalable, high-performance so
 
 
  
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b>TikTok</li>
-	    <br />
-	</ul>	
-</details>
