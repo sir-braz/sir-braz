@@ -16,3 +16,6 @@ I'm a Backend Developer based in Austin TX. I have a passion for a lot of langua
 - Meta
 
 ![Visitor Count](https://profile-counter.glitch.me/{sir-braz}/count.svg)
+
+![Pac-Man eating dots](https://media.giphy.com/media/iP3q8J6jK1JKU/giphy.gif)
+
