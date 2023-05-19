@@ -15,6 +15,11 @@ I'm a Backend Developer based in Austin TX. I have a passion for a lot of langua
 - Ibm
 - Meta
 
-![Visitor Count](https://profile-counter.glitch.me/{sir-braz}/count.svg)
+## Solved HackerRank Exercises
+
+| Exercise Name   | Category   | Source Code Link      |
+| --------------- | ---------- | ---------------------|
+| Exercise 1      | Category 1 | [Link](code-link-1)   |
+
 
 
