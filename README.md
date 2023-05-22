@@ -15,8 +15,7 @@ I'm a Backend Developer based in Austin TX. I have a passion for a lot of langua
 
 | Language        | Category               | Source Code Link     |
 | --------------- | ---------------------- | --------------------------------------------------------------------------------------------   |
-|      C++        | Basic Data Types       | https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/submissions/code/328315821   |
-|      C++        | Conditional Statements | https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/submissions/code/328319825   |
+|     test        | test                    | test                                                                                           |
 
 
 
