@@ -11,12 +11,9 @@ I'm a Backend Developer based in Austin TX. I have a passion for a lot of langua
 - Ibm
 - Meta
 
-## Solved HackerRank Exercises
+## Progresso do Projeto
 
-| Language        | Category               | Source Code Link     |
-| --------------- | ---------------------- | --------------------------------------------------------------------------------------------   |
-|     test        | test                    | test                                                                                           |
-
+![Progresso](https://img.shields.io/badge/Progresso-70%25-blue)
 
 
 
