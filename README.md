@@ -11,7 +11,7 @@ I'm a Backend Developer based in Austin TX. I have a passion for a lot of langua
 - Ibm
 - Meta
 
-![Estatísticas de Atividade](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true)
+![Estatísticas de Atividade](https://github-readme-stats.vercel.app/api?username=sir-braz&show_icons=true)
 
 
 
