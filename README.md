@@ -10,6 +10,7 @@ I'm a Backend Developer based in Austin TX. I have a passion for a lot of langua
 - Google
 - Ibm
 - Meta
+- Tesla
 
 ![Estatísticas de Atividade](https://github-readme-stats.vercel.app/api?username=sir-braz&show_icons=true)
 
