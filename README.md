@@ -1,30 +1,29 @@
-# 👨‍💻 Vinicius - Desenvolvedor Backend Júnior 👾
+# 👨‍💻 Vinicius - Junior Backend Developer 👾
 
-## Sobre Mim 🚀
-Sou um entusiasta da tecnologia e um explorador incansável do mundo do desenvolvimento de software. 🌟 Minha paixão é transformar códigos em soluções que fazem a diferença. Quando não estou codificando, você pode me encontrar explorando novas bibliotecas ou perdido em um livro sobre arquitetura de software.
+## About Me 🚀
+I'm a technology enthusiast and an avid explorer in the world of software development. 🌟 My passion is turning code into solutions that make a difference. When I'm not coding, you can find me exploring new libraries or immersed in a book about software architecture.
 
-## Habilidades 🛠️
-- Linguagens de Programação: Java
+## Skills 🛠️
+- Programming Languages: Java
 - Frameworks: Spring Boot
-- Banco de Dados: MySQL, PostgreSQL, MongoDB
-- Controle de Versão: Git
-- APIs RESTful 🌐
-- Testes Unitários 🧪
-- Design de API 📏
-- Arquitetura de Microserviços 🏗️
+- Databases: MySQL, PostgreSQL, MongoDB
+- Version Control: Git
+- RESTful APIs 🌐
+- Unit Testing 🧪
+- API Design 📏
+- Microservices Architecture 🏗️
 
-## Projetos Destacados 💼
+## Featured Projects 💼
 
-- **API de Gerenciamento de Produtos e Categorias** 📦 - Desenvolvi uma API robusta para gerenciamento de produtos e categorias, facilitando a organização e busca de produtos em um sistema de comércio eletrônico.
+- **Product and Category Management API** 📦 - I developed a robust API for managing products and categories, making it easy to organize and search for products in an e-commerce system.
 
-- **API de Gestão de Finanças** 💰 - Criei uma API para gestão financeira, permitindo aos usuários acompanhar despesas, receitas e orçamentos de forma eficiente.
+- **Finance Management API** 💰 - I created an API for financial management, allowing users to track expenses, income, and budgets efficiently.
 
-## Educação 📚
-- Tecnico em Analise e Desenvolvimento de Sistemas Dezembro 2022 (Completo)
+## Education 📚
+- Technical Degree in Analysis and Systems Development, December 2022 (Completed)
 
+## Languages 🌎
+- Portuguese (Native) 🇧🇷
+- English (Intermediate) 🇺🇸
 
-## Idiomas 🌎
-- Português (Nativo) 🇧🇷
-- Inglês (Intermediário) 🇺🇸
-
-Estou empolgado para fazer parte de projetos desafiadores e continuar aprendendo no mundo do desenvolvimento backend. Vamos construir coisas incríveis juntos! 🚀👨‍
+I'm excited to be part of challenging projects and to continue learning in the world of backend development. Let's build amazing things together! 🚀👨‍💻
