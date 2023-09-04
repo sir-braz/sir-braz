@@ -1,21 +1,30 @@
-# Hi there, I'm Mr.Braz 👋
+# 👨‍💻 Vinicius - Desenvolvedor Backend Júnior 👾
 
-I'm a Backend Developer based in Brazil. I have a passion for a lot of languages, and I'm currently working on my repositories. In my free time, you can find with Linkedin
+## Sobre Mim 🚀
+Sou um entusiasta da tecnologia e um explorador incansável do mundo do desenvolvimento de software. 🌟 Minha paixão é transformar códigos em soluções que fazem a diferença. Quando não estou codificando, você pode me encontrar explorando novas bibliotecas ou perdido em um livro sobre arquitetura de software.
 
-## 💼 What I'm currently working on
-- My repositories
+## Habilidades 🛠️
+- Linguagens de Programação: Java
+- Frameworks: Spring Boot
+- Banco de Dados: MySQL, PostgreSQL, MongoDB
+- Controle de Versão: Git
+- APIs RESTful 🌐
+- Testes Unitários 🧪
+- Design de API 📏
+- Arquitetura de Microserviços 🏗️
 
-## 🤝 Looking to collaborate on
-- Facebook
-- Google
-- Ibm
-- Meta
-- Tesla
+## Projetos Destacados 💼
 
-![Estatísticas de Atividade](https://github-readme-stats.vercel.app/api?username=sir-braz&show_icons=true)
+- **API de Gerenciamento de Produtos e Categorias** 📦 - Desenvolvi uma API robusta para gerenciamento de produtos e categorias, facilitando a organização e busca de produtos em um sistema de comércio eletrônico.
 
+- **API de Gestão de Finanças** 💰 - Criei uma API para gestão financeira, permitindo aos usuários acompanhar despesas, receitas e orçamentos de forma eficiente.
 
+## Educação 📚
+- Tecnico em Analise e Desenvolvimento de Sistemas Dezembro 2022 (Completo)
 
 
+## Idiomas 🌎
+- Português (Nativo) 🇧🇷
+- Inglês (Intermediário) 🇺🇸
 
-
+Estou empolgado para fazer parte de projetos desafiadores e continuar aprendendo no mundo do desenvolvimento backend. Vamos construir coisas incríveis juntos! 🚀👨‍
