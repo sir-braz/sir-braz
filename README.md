@@ -20,7 +20,7 @@ I'm a technology enthusiast and an avid explorer in the world of software develo
 - **Finance Management API** 💰 - I created an API for financial management, allowing users to track expenses, income, and budgets efficiently.
 
 ## Education 📚
-- Technical Degree in Analysis and Systems Development, December 2022 (Completed)
+- Software Enginee Student - Brazil
 
 ## Languages 🌎
 - Portuguese (Native) 🇧🇷
