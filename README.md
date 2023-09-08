@@ -26,4 +26,7 @@ I'm a technology enthusiast and an avid explorer in the world of software develo
 - Portuguese (Native) 🇧🇷
 - English (Intermediate) 🇺🇸
 
+## Contact
+- viniciusbatistabraz@gmail.com
+
 I'm excited to be part of challenging projects and to continue learning in the world of backend development. Let's build amazing things together! 🚀👨‍💻
