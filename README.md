@@ -17,8 +17,6 @@ I'm a technology enthusiast and an avid explorer in the world of software develo
 
 - **Product and Category Management API** 📦 - I developed a robust API for managing products and categories, making it easy to organize and search for products in an e-commerce system.
 
-- **Finance Management API** 💰 - I created an API for financial management, allowing users to track expenses, income, and budgets efficiently.
-
 ## Education 📚
 - Software Engineer Student - Brazil
 
