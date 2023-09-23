@@ -1,4 +1,4 @@
-# 👨‍💻 Vinicius - Junior Backend Developer 👾
+# 👨‍💻 Vinicius - Junior Software Engineer 👾
 
 ## About Me 🚀
 I'm a technology enthusiast and an avid explorer in the world of software development. 🌟 My passion is turning code into solutions that make a difference. When I'm not coding, you can find me exploring new libraries or immersed in a book about software architecture.
