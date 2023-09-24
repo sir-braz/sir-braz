@@ -13,9 +13,14 @@ I'm a technology enthusiast and an avid explorer in the world of software develo
 - API Design 📏
 - Microservices Architecture 🏗️
 
-## Featured Projects 💼
+## Featured Projects
 
-- **Product and Category Management API** 📦 - I developed a robust API for managing products and categories, making it easy to organize and search for products in an e-commerce system.
+| Project Name            | Description                                           | Status       |
+|-------------------------|-------------------------------------------------------|--------------|
+| TaskForge API           | Efficient task management platform.                  | ![red](https://via.placeholder.com/15/f03c15/000000?text=Not%20Started) Not Started |
+| SocialConnect Pro       | Professional social media connection API.            | ![red](https://via.placeholder.com/15/f03c15/000000?text=Not%20Started) Not Started  |
+| Product Management API  | API for efficient product management.                | ![green](https://via.placeholder.com/15/008000/000000?text=Completed) Completed |
+
 
 ## Education 📚
 - Software Engineer Student - Brazil
