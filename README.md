@@ -1,10 +1,10 @@
-# 👨‍💻 Vinicius - Junior Software Engineer 👾
+# 👨‍💻 Vinicius - Software Engineer 👾
 
 ## About Me 🚀
 I'm a technology enthusiast and an avid explorer in the world of software development. 🌟 My passion is turning code into solutions that make a difference. 
 
 ## Skills 🛠️
-- Programming Languages: Java
+- Programming Languages: Java,
 - Frameworks: Spring Boot
 - Databases: MySQL, PostgreSQL, MongoDB
 - Version Control: Git
@@ -19,9 +19,6 @@ I'm a technology enthusiast and an avid explorer in the world of software develo
 |-------------------------|-------------------------------------------------------|--------------|
 | Product Management API  | API for efficient product management.                | ![green](https://via.placeholder.com/15/008000/000000?text=Completed) Completed |
 
-
-## Education 📚
-- Software Engineer Student - Brazil
 
 ## Languages 🌎
 - Portuguese (Native) 🇧🇷
