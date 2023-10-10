@@ -4,8 +4,8 @@
 I'm a technology enthusiast and an avid explorer in the world of software development. 🌟 My passion is turning code into solutions that make a difference. 
 
 ## Skills 🛠️
-- Programming Languages: Java,
-- Frameworks: Spring Boot
+- Programming Languages: Java, Nodejs
+- Frameworks: Spring Boot, Express.js 
 - Databases: MySQL, PostgreSQL, MongoDB
 - Version Control: Git
 - RESTful APIs 🌐
