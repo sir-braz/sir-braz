@@ -24,6 +24,10 @@ I'm a technology enthusiast and an avid explorer in the world of software develo
 - Portuguese (Native) 🇧🇷
 - English (Intermediate) 🇺🇸
 
+##Others Interests:
+- Web development
+- Backend Development (Express.js, Nodejs)
+
 ## Contact
 -  mrbrazdev@gmail.com
 
