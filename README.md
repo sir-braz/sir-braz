@@ -18,6 +18,8 @@ I'm a technology enthusiast and an avid explorer in the world of software develo
 | Project Name            | Description                                           | Status       |
 |-------------------------|-------------------------------------------------------|--------------|
 | Product Management API  | API for efficient product management.                | ![green](https://via.placeholder.com/15/008000/000000?text=Completed) Completed |
+| Task Management Api  | API for efficient task management.                | ![green](https://via.placeholder.com/15/008000/000000?text=Completed) Completed |
+
 
 
 ## Languages 🌎
