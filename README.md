@@ -2,7 +2,7 @@
 ```markdown
  👨‍💻 Vinicius - Backend Developer 👾
 
-![Developer](https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_REPO_AQUI/main/developer.gif)
+![Developer](https://raw.githubusercontent.com/sir-braz/https://github.com/sir-braz/main/developer.gif)
 
  About Me 🚀
 I'm a technology enthusiast and an avid explorer in the world of software development. 🌟 My passion is turning code into solutions that make a difference. 
