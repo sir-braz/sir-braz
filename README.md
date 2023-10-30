@@ -1,13 +1,13 @@
 
 ```markdown
-# 👨‍💻 Vinicius - Backend Developer 👾
+ 👨‍💻 Vinicius - Backend Developer 👾
 
 ![Developer](https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_REPO_AQUI/main/developer.gif)
 
-## About Me 🚀
+ About Me 🚀
 I'm a technology enthusiast and an avid explorer in the world of software development. 🌟 My passion is turning code into solutions that make a difference. 
 
-## Skills 🛠️
+ Skills 🛠️
 - Programming Languages: Java
 - Frameworks: Spring Boot
 - Databases: MySQL, PostgreSQL, MongoDB
@@ -17,18 +17,18 @@ I'm a technology enthusiast and an avid explorer in the world of software develo
 - API Design 📏
 - Microservices Architecture 🏗️
 
-## Featured Projects
+ Featured Projects
 
 | Project Name            | Description                                           | Status       |
 |-------------------------|-------------------------------------------------------|--------------|
 | Product Management API  | 🚀 Efficient product management API                | ![green](https://via.placeholder.com/15/008000/000000?text=Completed) Completed |
 | Task Management API     | 🚀 Efficient task management API                   | ![green](https://via.placeholder.com/15/008000/000000?text=Completed) Completed |
 
-## Languages 🌎
+Languages 🌎
 - Portuguese (Native) 🇧🇷
 - English (Intermediate) 🇺🇸
 
-## Other Interests:
+Other Interests:
 - Web development
 - Backend Development (Express.js, Node.js)
 
