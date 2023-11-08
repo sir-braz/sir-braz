@@ -1,4 +1,4 @@
-# 👨‍💻 Vinicius - Backend Developer 👾
+# 👨‍💻 Vinicius - FullStack Developer 👾
 
 ## About Me 🚀
 I'm a technology enthusiast and an avid explorer in the world of software development. 🌟 My passion is turning code into solutions that make a difference. 
