@@ -12,6 +12,9 @@ I'm a technology enthusiast and an avid explorer in the world of software develo
 - Unit Testing 🧪
 - API Design 📏
 - Microservices Architecture 🏗️
+- Html
+- Css
+- Axios
 
 ## Featured Projects
 
