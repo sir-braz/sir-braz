@@ -1,22 +1,31 @@
-# 👨‍💻 Vinicius - FullStack Developer 👾
 
-## About Me 🚀
-I'm a technology enthusiast and an avid explorer in the world of software development. 🌟 My passion is turning code into solutions that make a difference. 
+<center>‍ Vinicius - FullStack Developer </center>
 
-## Skills 🛠️
-- Programming Languages: Java
-- Frameworks: Spring Boot
-- Databases: MySQL, PostgreSQL, MongoDB
-- Version Control: Git
-- RESTful APIs 🌐
-- Unit Testing 🧪
-- API Design 📏
-- Microservices Architecture 🏗️
+## About Me 
 
-## Languages 🌎
-- Portuguese (Native) 🇧🇷
-- English (Intermediate) 🇺🇸
+Enthusiastic technology explorer with a passion for crafting innovative software solutions that drive meaningful impact.
 
-## Other Interests:
-- Web development
-- Backend Development (Express.js, Node.js, Go)
+## Skills ️
+
+* **Languages:** <badge type="primary">Java</badge>
+* **Frameworks:** <badge type="success">Spring Boot</badge>
+* **Databases:** <badge type="info">MySQL</badge>, <badge type="info">PostgreSQL</badge>, <badge type="info">MongoDB</badge>  
+* **Tools:** <badge type="dark">Git</badge>, <badge type="dark">Docker</badge>
+* **Web:** RESTful APIs, Microservices Architecture
+* **Testing:** Unit Testing, Integration Testing
+* **Design:** API Design, System Architecture
+
+## Languages 
+
+* **Portuguese (Native):** Fluent 🇵🇹
+* **English (Intermediate):** Proficient 🇬🇧
+
+## Other Interests:  
+
+Diving deep into:
+
+* **Web Development:** Express.js, Node.js, Go
+* **Backend:** Crafting Scalable Microservices
+
+Feel free to reach out for a chat or collaboration!
+
