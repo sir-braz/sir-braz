@@ -11,9 +11,6 @@ Hello there! I'm Vinicius, a dedicated FullStack Developer with a passion for bu
 - **Testing:** Unit Testing, Integration Testing
 - **Design:** API Design, System Architecture
 
-## Education 🎓
-- **Bachelor’s Degree in Computer Science** from [University Name], where I honed my skills in software development and gained hands-on experience in Java programming and web technologies.
-
 ## Languages 🌎
 Fluent in Portuguese (🇧🇷) and proficient in English (🇺🇸).
 
