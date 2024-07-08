@@ -4,7 +4,7 @@
 Hello there! I'm Vinicius, a dedicated FullStack Developer with a passion for building cutting-edge software solutions that drive business growth and enhance user experience. I thrive in dynamic environments where I can apply my expertise in crafting scalable applications and solving complex technical challenges.
 
 ## Skills & Expertise 🚀
-- **Frameworks:** Express.js, Node.js
+- **Frameworks:** Express.js, Node.js, Spring Boot
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools & Technologies:** Git, Docker, RESTful APIs, Microservices Architecture
 - **Testing:** Unit Testing, Integration Testing
