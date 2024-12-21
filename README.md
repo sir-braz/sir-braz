@@ -11,12 +11,12 @@ Hello! I'm Vinicius, a passionate and results-driven **Software Engineer** with 
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Architecture:** Microservices, RESTful APIs, System Design
 - **Tools & Technologies:** Git, Docker, Kubernetes
-- **Cloud:** AWS, Azure (optional if you have experience)
+- **Cloud:** AWS, Azure 
 - **Version Control:** Git, GitHub, GitLab
 
 ### **Testing & Quality Assurance:**
 - **Unit Testing & Integration Testing**
-- **Test Automation Tools:** Jest, Mocha, Chai (if applicable)
+- **Test Automation Tools:** Jest
 
 ### **API Design & Development:**
 - **API Design Best Practices**
@@ -25,9 +25,9 @@ Hello! I'm Vinicius, a passionate and results-driven **Software Engineer** with 
 
 ## Technical Skills 🌐
 
-- **Programming Languages:** JavaScript (Node.js), Java (Spring Boot), TypeScript (optional if you use it)
+- **Programming Languages:** JavaScript (Node.js), Java (Spring Boot), TypeScript 
 - **Database Management:** Expert in relational (MySQL, PostgreSQL) and NoSQL (MongoDB) databases.
-- **Development Methodologies:** Agile, Scrum, TDD (Test-Driven Development)
+- **Development Methodologies:** Agile, Scrum, TDD 
 
 ## Languages 🌎
 
@@ -37,7 +37,7 @@ Hello! I'm Vinicius, a passionate and results-driven **Software Engineer** with 
 ## What I Enjoy Doing When I'm Not Coding 🌟
 
 - **Exploring New Tech Stacks:** Constantly experimenting with new tools and technologies, including web development frameworks like **Go**, **GraphQL**, and **Docker/Kubernetes**.
-- **Tech Blogging & Sharing Knowledge:** Writing about development best practices and the latest trends in the tech world (optional, if you have a blog).
+- **Tech Blogging & Sharing Knowledge:** Writing about development best practices and the latest trends in the tech world.
 - **Continuous Learning:** I am passionate about deepening my knowledge in **cloud computing**, **microservices**, and **AI/ML** technologies.
 
 ## Let's Connect 📫
