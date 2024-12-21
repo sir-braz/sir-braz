@@ -32,7 +32,7 @@ Hello! I'm Vinicius, a passionate and results-driven **Software Engineer** with 
 ## Languages 🌎
 
 - **Portuguese:** Native 🇧🇷
-- **English:** Intemediate 🇺🇸
+- **English:** Intermediate 🇺🇸
 
 ## What I Enjoy Doing When I'm Not Coding 🌟
 
@@ -42,5 +42,4 @@ Hello! I'm Vinicius, a passionate and results-driven **Software Engineer** with 
 
 ## Let's Connect 📫
 
-I am always excited about new challenges and collaborations! If you’re looking for a skilled **Backend Developer** to help build scalable, efficient, and high-quality systems, I’d love to connect with you. Feel free to reach out, and let’s make something amazing together!
-
+I am always excited about new challenges and collaborations! If you’re looking for a skilled **Backend Developer** to help build scalable, efficient, and high-quality systems, I’d love to connect with you. Feel free to reach out via email at **dev.vinicius-batista@hotmail.com**, and let’s make something amazing together!
