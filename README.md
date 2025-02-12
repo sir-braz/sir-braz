@@ -1,45 +1,31 @@
-# 👨‍💻 Vinicius - Software Engineer 👨‍💻
+**Vinicius Batista**  
+Estudante de Ciências da Computação | Entusiasta de Desenvolvimento de Software  
+Email: dev.vinicius-batista@hotmail.com  
 
-## About Me 🌟
+---
 
-Hello! I'm Vinicius, a passionate and results-driven **Software Engineer** with a deep focus on **Backend Development**. My expertise lies in crafting scalable, efficient, and high-performing applications that solve real-world challenges. I am driven by the desire to continuously learn and grow, and I thrive in collaborative environments where I can contribute my technical skills to impactful projects.
+## Sobre Mim 🌟
 
-## My Expertise 🚀
+Sou um estudante de **Ciências da Computação** apaixonado por resolver problemas utilizando linguagens de programação. Tenho grande interesse em **desenvolvimento de software**, especialmente em **backend** e **arquitetura de sistemas**. Busco constantemente aprimorar minhas habilidades, aprender novas tecnologias e contribuir para projetos inovadores.
 
-### **Backend Development:**
-- **Frameworks:** Express.js, Node.js, Spring Boot
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Architecture:** Microservices, RESTful APIs, System Design
-- **Tools & Technologies:** Git, Docker, Kubernetes
-- **Cloud:** AWS, Azure 
-- **Version Control:** Git, GitHub, GitLab
 
-### **Testing & Quality Assurance:**
-- **Unit Testing & Integration Testing**
-- **Test Automation Tools:** Jest
+## Idiomas 🌎
 
-### **API Design & Development:**
-- **API Design Best Practices**
-- **Scalability & Performance Optimization**
-- **Documentation:** OpenAPI, Swagger
+- **Português:** Nativo 🇧🇷
+- **Inglês:** Intermediário 🇺🇸
 
-## Technical Skills 🌐
+---
 
-- **Programming Languages:** JavaScript (Node.js), Java (Spring Boot), TypeScript 
-- **Database Management:** Expert in relational (MySQL, PostgreSQL) and NoSQL (MongoDB) databases.
-- **Development Methodologies:** Agile, Scrum, TDD 
+## Interesses & Atividades 🌟
 
-## Languages 🌎
+- Explorar novas tecnologias e paradigmas de programação.
+- Participar de comunidades e eventos tech.
+- Compartilhar conhecimento por meio de artigos e blogs.
+- Aprendizado contínuo em **cloud computing**, **microservices** e **inteligência artificial**.
 
-- **Portuguese:** Native 🇧🇷
-- **English:** Intermediate 🇺🇸
+---
 
-## What I Enjoy Doing When I'm Not Coding 🌟
+## Vamos Conectar? 📫
 
-- **Exploring New Tech Stacks:** Constantly experimenting with new tools and technologies, including web development frameworks like **Go**, **GraphQL**, and **Docker/Kubernetes**.
-- **Tech Blogging & Sharing Knowledge:** Writing about development best practices and the latest trends in the tech world.
-- **Continuous Learning:** I am passionate about deepening my knowledge in **cloud computing**, **microservices**, and **AI/ML** technologies.
+Estou sempre aberto a novas oportunidades e desafios! Se você precisa de um profissional apaixonado por resolver problemas computacionais e desenvolver soluções eficientes, entre em contato pelo e-mail **dev.vinicius-batista@hotmail.com**.
 
-## Let's Connect 📫
-
-I am always excited about new challenges and collaborations! If you’re looking for a skilled **Backend Developer** to help build scalable, efficient, and high-quality systems, I’d love to connect with you. Feel free to reach out via email at **dev.vinicius-batista@hotmail.com**, and let’s make something amazing together!
