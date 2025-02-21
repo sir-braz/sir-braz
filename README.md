@@ -1,6 +1,5 @@
 **Vinicius Batista**  
 Estudante de Ciências da Computação | Entusiasta de Desenvolvimento de Software  
-Email: dev.vinicius-batista@hotmail.com  
 
 ---
 
