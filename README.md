@@ -25,7 +25,3 @@ Sou um estudante de **Ciências da Computação** apaixonado por resolver proble
 
 ---
 
-## Vamos Conectar? 📫
-
-Estou sempre aberto a novas oportunidades e desafios! Se você precisa de um profissional apaixonado por resolver problemas computacionais e desenvolver soluções eficientes, entre em contato pelo e-mail **dev.vinicius-batista@hotmail.com**.
-
