@@ -5,7 +5,7 @@ Estudante de Ciências da Computação | Entusiasta de Desenvolvimento de Softwa
 
 ## Sobre Mim 🌟
 
-Sou um estudante de **Ciências da Computação** apaixonado por resolver problemas utilizando linguagens de programação. Tenho grande interesse em **desenvolvimento de software**, especialmente em **backend** e **arquitetura de sistemas**. Busco constantemente aprimorar minhas habilidades, aprender novas tecnologias e contribuir para projetos inovadores.
+Sou um estudante de **Ciências da Computação** apaixonado por resolver problemas utilizando linguagens de programação.
 
 
 ## Idiomas 🌎
