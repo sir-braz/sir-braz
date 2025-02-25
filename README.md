@@ -11,7 +11,7 @@ Sou um estudante de **Ciências da Computação** apaixonado por resolver proble
 ## Idiomas 🌎
 
 - **Português:** Nativo 🇧🇷
-- **Inglês:** Intermediário 🇺🇸
+- **Inglês:** b1 🇺🇸
 
 ---
 
@@ -20,7 +20,5 @@ Sou um estudante de **Ciências da Computação** apaixonado por resolver proble
 - Explorar novas tecnologias e paradigmas de programação.
 - Participar de comunidades e eventos tech.
 - Compartilhar conhecimento por meio de artigos e blogs.
-- Aprendizado contínuo em **cloud computing**, **microservices** e **inteligência artificial**.
-
 ---
 
