@@ -50,13 +50,6 @@ Sou um estudante de **Ciências da Computação** apaixonado por resolver proble
 
 ---
 
-## 🚀 **Objetivos**:
-
-- Aprender mais sobre **Inteligência Artificial** e **Machine Learning**.
-- Aprofundar em **Desenvolvimento Web Full Stack**.
-- Colaborar com desenvolvedores ao redor do mundo!
-
----
 
 ## 💬 **Contato**:
 **Email:** [dev.vinicius-batista@hotmail.com](mailto:dev.vinicius-batista@hotmail.com)
