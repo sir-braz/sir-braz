@@ -51,9 +51,6 @@ Sou um estudante de **Ciências da Computação** apaixonado por resolver proble
 ---
 
 
-## 💬 **Contato**:
-**Email:** [dev.vinicius-batista@hotmail.com](mailto:dev.vinicius-batista@hotmail.com)
-
 ---
 
 > **"Programação é a arte de transformar ideias em soluções."** 🌍💻
